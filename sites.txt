@@ -1,0 +1,12 @@
+# My list of sites to check
+
+https://docs.rs/reqwest/latest/reqwest/
+https://crates.io/
+http://nonexistent-domain-12345.com
+https://google.com
+https://github.com
+https://youtube.com
+https://x.com
+https://reddit.com
+https://svelte.dev
+https://leetcode.com
